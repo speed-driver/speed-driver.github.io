@@ -8,11 +8,11 @@ description: |
   驾校直招  合法资质  无隐形消费
   电话/微信：17784739605  
   crafted by [HTML5 UP](http://html5up.net)
-owner: Your Name # or company name
-first_published: 2016 # if migrating another site, the year of your first publish
+owner: 博仁论道 # or company name
+first_published: 2018 # if migrating another site, the year of your first publish
 email: your-email@domain.com
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://speed-driver.cn" # the base hostname & protocol for your site
 social:
   twitter: https://twitter.com/<username>
   github: https://github.com/<username>
