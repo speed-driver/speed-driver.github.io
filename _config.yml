@@ -4,16 +4,14 @@
 # Site settings
 title: SPEED DRIVER
 description: |
-  5-7天下证  通过率95%以上   
+  驾照轻松到手
+
+  最快7天下证  通过率99%以上   
 
   驾校直招  合法资质  无隐形消费  
-
-  电话/微信：023-62919628
-
-  crafted by [和稷律峰](http://cqbrother.com)
 owner: 和稷律峰 # or company name
 first_published: 2018 # if migrating another site, the year of your first publish
-email: your-email@domain.com
+email: zhenglyu@cqbrother.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://speed-driver.cn" # the base hostname & protocol for your site
 social:
